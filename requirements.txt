@@ -1,6 +1,6 @@
-streamlit
-numpy
-pandas
-scipy
-scikit-learn<1.7
-diffprivlib
+streamlit==1.40.0
+numpy==1.26.4
+pandas==2.2.3
+scipy==1.13.1
+scikit-learn==1.5.2
+diffprivlib==0.6.5
